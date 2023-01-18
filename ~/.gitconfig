@@ -1,11 +1,8 @@
-
-
-
-
-
-
-
-
+[init]
+   defaultBranch = main
+[user]
+   email = ramya7sravani@gmail.com
+   name = "RAMYASRAVANI07"
 [alias]
   co = checkout
   ci = commit
